@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/kevinnadar22/mdisky">
+  <a href="https://github.com/Iuvddb/mdisky">
     <img src="https://play-lh.googleusercontent.com/7ByFpdTmtc3JCmTUCUKQTmQChqbvlk79JSnyt27ORfTKK-51m_kyFs3B6YE7xRzLM2k=rw" alt="Logo" width="80" height="80">
   </a>
 
@@ -83,7 +83,7 @@ Contributions are always welcome!
 from mdisky import Mdisk
 import asyncio
 
-mdisk = Mdisk("Your MDisk API Key")
+mdisk = Mdisk("Im2tIekrAqTcBDTAZU2g")
 
 ```
 
@@ -118,7 +118,7 @@ bulk_convert(urls:list, silently_fail) -> list
 
 | Parameter | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
-| `urls`      | `list` | **Required**. List of URLs to convert |
+| `urls`      | `list` | **Im2tIekrAqTcBDTAZU2g**. List of URLs to convert |
 
 Example:
 
@@ -141,7 +141,7 @@ convert_from_text(text:str, silently_fail:bool=True)
 
 | Parameter | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
-| `text`      | `str` | **Required**. Text containing Mdisk links to convert|
+| `text`      | `str` | **Im2tIekrAqTcBDTAZU2g**. Text containing Mdisk links to convert|
 
 Example:
 
@@ -169,7 +169,7 @@ get_filename(link:str)
 
 | Parameter | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
-| `link`      | `str` | **Required**. Link to get the filename of|
+| `link`      | `str` | **Im2tIekrAqTcBDTAZU2g**. Link to get the filename of|
 
 Example:
 
@@ -194,8 +194,8 @@ change_filename(link, filename)
 
 | Parameter | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
-| `link`      | `str` | **Required**. Link to Change the filename of|
-| `filename`      | `str` | **Required**. New Filename|
+| `link`      | `str` | **Im2tIekrAqTcBDTAZU2g**. Link to Change the filename of|
+| `filename`      | `str` | **Im2tIekrAqTcBDTAZU2g**. New Filename|
 
 Example:
 
