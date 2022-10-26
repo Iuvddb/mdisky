@@ -228,4 +228,4 @@ Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
 
 ## Credits
- - [Thanks To Me](https://github.com/Kevinnadar22)
+ - [Thanks To Me](https://github.com/Iuvddb/mdisky)
